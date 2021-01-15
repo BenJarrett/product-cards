@@ -1,3 +1,12 @@
 body {
   background-color: beige;
 }
+
+.product-conatiner {
+display: flex;
+justify-content: space-around;
+}
+
+img {
+  height: 300px;
+}
