@@ -1,12 +1,8 @@
-body {
-  background-color: beige;
+.availability {
+  background-color: grey;
+  color: yellow;
 }
 
-.product-conatiner {
-display: flex;
-justify-content: space-around;
-}
-
-img {
-  height: 300px;
+.specifications {
+  text-emphasis: bold;
 }
